@@ -1,14 +1,15 @@
-# Yet Another Hadoop (YAH)
+# YAH - Yet Another Hadoop
 
-## Big Data Project of **Team BD2_154_335_413_908**
-In this project, we created a File-System that mimics **Hadoop Distributed File System** (HDFS) using Python.
+## Pre-final year Big Data Project of PES University (2021-22).
 
-#### [Project Specification](https://cloud-computing-big-data.github.io/yah)
+Team ID: **Team BD2_154_335_413_908**
+
+A File-System that mimics **Hadoop Distributed File System** (HDFS) using Python.
 
 ### Team
 
 1. [J Jeshwanth Reddy](https://github.com/jeshwanthreddy13)
-2. [Rohith Gangadhara](https://github.com/Rohith-G1024)
+2. [Rohith G](https://github.com/Rohith-G1024)
 3. [Suhas R](https://github.com/Suhasr76)
 4. [V Manas Advaith](https://github.com/ManasAdvaith)
 
